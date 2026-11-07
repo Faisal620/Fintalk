@@ -34,7 +34,7 @@ Try FinTalk live at: [https://fintalk.streamlit.app/](https://fintalk.streamlit.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/CodebyKumar/FinTalk.git
+   git clone https://github.com/Faisal620/FinTalk.git
    cd FinTalk
    ```
 
@@ -220,10 +220,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Contributors** who help improve FinTalk
 
 ## 📞 Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/CodebyKumar/FinTalk/issues)
-- **Discussions**: [Community discussions](https://github.com/CodebyKumar/FinTalk/discussions)
-- **Email**: [Contact the maintainer](mailto:kumar@example.com)
+- **Email**: [Contact the maintainer](mobasshirfaisal@example.com)
 
 ## 🗺️ Roadmap
 
@@ -234,8 +231,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [ ] Credit score improvement tracking
 - [ ] Financial goal setting and tracking
 
----
-
-**Made with ❤️ by the FinTalk Team**
 
 *Empowering financial decisions through AI-powered conversations*
